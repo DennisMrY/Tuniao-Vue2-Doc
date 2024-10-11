@@ -1,6 +1,6 @@
-## AnimateLoading 加载页 
+##动画下载加载页
 
-<demo-model url="/templatePage/animate/loading/loading"></demo-model>
+<演示模型全球资源定位器(Uniform Resource Locator)="/template page/animate/loading/loading "></演示模型>
 
-### 基本使用 后续更新
+###基本使用 后续更新
 
